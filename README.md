@@ -26,7 +26,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/noob-hackers/T-LOAD
+$ git clone https://github.com/skriptkids/Reddy
 ```
 ```
 $ ls
@@ -38,7 +38,7 @@ $ cd T-LOAD
 $ ls
 ```
 ```
-$ bash t-load.sh
+$ bash t-.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
